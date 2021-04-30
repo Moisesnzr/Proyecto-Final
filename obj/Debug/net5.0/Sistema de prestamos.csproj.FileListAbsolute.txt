@@ -1,0 +1,48 @@
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.exe
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.deps.json
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.json
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.dev.json
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csprojAssemblyReference.cache
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfoInputs.cache
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfo.cs
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\source\repos\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.genruntimeconfig.cache
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.exe
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.deps.json
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.json
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.dev.json
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csprojAssemblyReference.cache
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfoInputs.cache
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfo.cs
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\OneDrive\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.genruntimeconfig.cache
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.exe
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.deps.json
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.json
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.runtimeconfig.dev.json
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\bin\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csprojAssemblyReference.cache
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfoInputs.cache
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.AssemblyInfo.cs
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\ref\Sistema de prestamos.dll
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.pdb
+C:\Users\moise\OneDrive\Clases ITLA\2do Cuatrimestre\Fundamentos de programación-2021-C-1\Proyecto Final C#\Sistema de prestamos\Sistema de prestamos\obj\Debug\net5.0\Sistema de prestamos.genruntimeconfig.cache
