@@ -42,6 +42,7 @@ namespace Sistema_de_prestamos
             }
             catch (FormatException ex)
             {
+                monto = 0;
                 Console.WriteLine("No has introducido un valor numérico válido. Ha tomado por monto el valor $0");
             }
 
@@ -58,6 +59,7 @@ namespace Sistema_de_prestamos
             }
             catch (FormatException ex)
             {
+                tasadeinteres = 0;
                 Console.WriteLine("No has introducido un valor numérico válido. Ha tomado por tasa de interes anual el valor 0%");
             }
 
@@ -74,6 +76,7 @@ namespace Sistema_de_prestamos
             }
             catch (FormatException ex)
             {
+                plazomeses = 0;
                 Console.WriteLine("No has introducido un valor numérico válido. Ha tomado el plazo en mese con valor 0");
             }
             
